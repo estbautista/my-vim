@@ -1,0 +1,21 @@
+[submodule "pack/my-plugins/start/vim-orgmode"]
+	path = pack/my-plugins/start/vim-orgmode
+	url = https://github.com/jceb/vim-orgmode.git
+[submodule "pack/my-plugins/start/NrrwRgn"]
+	path = pack/my-plugins/start/NrrwRgn
+	url = https://github.com/chrisbra/NrrwRgn.git
+[submodule "pack/my-plugins/start/vim-repeat"]
+	path = pack/my-plugins/start/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "pack/my-plugins/start/tagbar"]
+	path = pack/my-plugins/start/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "pack/my-plugins/start/vim-speeddating"]
+	path = pack/my-plugins/start/vim-speeddating
+	url = https://github.com/tpope/vim-speeddating.git
+[submodule "pack/my-plugins/start/calendar-vim"]
+	path = pack/my-plugins/start/calendar-vim
+	url = https://github.com/mattn/calendar-vim.git
+[submodule "pack/my-plugins/start/vim-SyntaxRange"]
+	path = pack/my-plugins/start/vim-SyntaxRange
+	url = https://github.com/inkarkat/vim-SyntaxRange.git
