@@ -19,3 +19,6 @@
 [submodule "pack/my-plugins/start/vim-SyntaxRange"]
 	path = pack/my-plugins/start/vim-SyntaxRange
 	url = https://github.com/inkarkat/vim-SyntaxRange.git
+[submodule "pack/my-plugins/start/vim-latex"]
+	path = pack/my-plugins/start/vim-latex
+	url = https://github.com/vim-latex/vim-latex.git
