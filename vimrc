@@ -16,3 +16,5 @@ let g:tex_flavor='latex'
 let g:Tex_ViewRule_pdf = 'open -a Preview'
 
 let g:Tex_GotoError=0
+let g:Tex_MultipleCompileFormats='pdf,bib,pdf'
+let g:Tex_DefaultTargetFormat='pdf'
